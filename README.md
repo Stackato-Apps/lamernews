@@ -14,10 +14,10 @@ everybody to use, fork, and have fun with.
 We believe it is also a good programming example for Redis as a sole DB of a
 nontrivial, real world, web application.
 
-Stackato
-===
+HPE Helion Stackato
+===================
 
-To deploy to Stackato:
+To deploy to HPE Helion Stackato:
 
     stackato push -n
 
