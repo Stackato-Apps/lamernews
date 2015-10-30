@@ -1,5 +1,6 @@
 applications:
 - name: lamernews
+  memory: 64M
   services:
     ${name}-redis:
       type: redis
